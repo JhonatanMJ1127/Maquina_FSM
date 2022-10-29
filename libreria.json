@@ -1,0 +1,14 @@
+estado_act = {
+    "cero":{
+        "cerocero":(0,"cero"),
+        "cerouno":(1,"cero"),
+        "unocero":(1,"cero"),
+        "unouno":(0,"uno")
+        },
+    "uno":{
+        "cerocero":(1,"cero"),
+        "cerouno":(0,"uno"),
+        "unocero":(0,"uno"),
+        "unouno":(1,"uno")
+        }
+}
